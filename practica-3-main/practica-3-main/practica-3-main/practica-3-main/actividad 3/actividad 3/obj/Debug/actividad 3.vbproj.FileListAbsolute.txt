@@ -1,0 +1,36 @@
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.vbprojAssemblyReference.cache
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad_3.Form1.resources
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad_3.Resources.resources
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.GenerateResource.cache
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.CoreCompileInputs.cache
+C:\Luis 25073\actividad 3\actividad 3\bin\Debug\actividad 3.exe.config
+C:\Luis 25073\actividad 3\actividad 3\bin\Debug\actividad 3.exe
+C:\Luis 25073\actividad 3\actividad 3\bin\Debug\actividad 3.pdb
+C:\Luis 25073\actividad 3\actividad 3\bin\Debug\actividad 3.xml
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.exe
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.xml
+C:\Luis 25073\actividad 3\actividad 3\obj\Debug\actividad 3.pdb
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbprojAssemblyReference.cache
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad_3.Form1.resources
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad_3.Resources.resources
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.GenerateResource.cache
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.CoreCompileInputs.cache
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.exe
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.xml
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.pdb
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.exe.config
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.exe
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.pdb
+C:\Users\informa\Downloads\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.xml
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.exe.config
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.exe
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.pdb
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\bin\Debug\actividad 3.xml
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbprojAssemblyReference.cache
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad_3.Form1.resources
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad_3.Resources.resources
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.GenerateResource.cache
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.vbproj.CoreCompileInputs.cache
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.exe
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.xml
+C:\Luis 25073\practica-3-main\practica-3-main\practica-3-main\practica-3-main\actividad 3\actividad 3\obj\Debug\actividad 3.pdb
